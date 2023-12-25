@@ -16,7 +16,7 @@ const Footer = () => {
                             <div>
                                 <div className='flex items-center mb-4'>
                                     <GoLocation className='text-second-color text-2xl hidden md:block md:text-4xl' />
-                                    <h1 className='text-2xl md:text-4xl '>KML Residence</h1>
+                                    <h1 className='text-2xl md:text-4xl '>FXL Residence</h1>
                                 </div>
                                 <div className='flex items-center'>
                                     <BsHouseDoor className='text-2xl md:text-3xl mr-4' />
