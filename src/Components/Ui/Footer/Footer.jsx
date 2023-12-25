@@ -24,7 +24,7 @@ const Footer = () => {
                                 </div>
                                 <div className='flex items-center mt-8 mb-4'>
                                     <BsTelephone className='text-2xl mr-4 md:text-3xl' />
-                                    <h6>0540 42 59 69</h6>
+                                    <h6>0540 05 60 17</h6>
                                 </div>
                             </div>
                             <div>

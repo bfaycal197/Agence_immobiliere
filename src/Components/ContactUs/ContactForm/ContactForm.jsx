@@ -56,12 +56,12 @@ const ContactForm = () => {
 
                                         <div className='flex items-center my-8'>
                                             <p><BsPhone className='mr-4 text-2xl' /></p>
-                                            <h5 className='text-base md:text-xl'>0540/42/59/69</h5>
+                                            <h5 className='text-base md:text-xl'>0540 05 60 17</h5>
                                         </div>
 
                                         <div className='flex items-center'>
                                             <p><GoMail className='mr-4 text-2xl' /></p>
-                                            <h5 className='text-base md:text-xl'>info@gmail.com</h5>
+                                            <h5 className='text-base md:text-xl'>Faycalbabaahmed197@gmail.com</h5>
                                         </div>
                                     </div>
                                 </div>

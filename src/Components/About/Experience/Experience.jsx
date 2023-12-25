@@ -27,7 +27,7 @@ const Experience = () => {
                     <div className='flex flex-col md:flex-row'>
                         <div className='md:w-1/2'>
                             <h5 className='relative mb-2 w-fit left-12 before:absolute before:top-1/2 before:right-[103%] before:-translate-y-1/2 before:w-[30%] before:bg-second-color before:h-[2px]'>Our Company's Value</h5>
-                            <h1 className='text-5xl sm:text-6xl mb-4'>Kamel's Residence</h1>
+                            <h1 className='text-5xl sm:text-6xl mb-4'>Fayçal's Residence</h1>
                             <p className='mb-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error repudiandae excepturi cumque eum! Rem asperiores in sit. Sint id nam quisquam quaerat, possimus minus eos facere sit quis voluptatum culpa similique quas adipisci consequatur magni! Facere unde, deserunt optio, nostrum, perspiciatis explicabo recusandae nulla modi sequi qui illum necessitatibus!</p>
                             <div>
                                 <div className='flex items-center'>
